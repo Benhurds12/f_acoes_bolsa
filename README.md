@@ -1,7 +1,6 @@
 # f_cotacao_acoes
 
-A new Flutter project.
-
+Aplicativo originalmente fornecido pelo professor de Desenvolvimento para dispositivos móveis, como um conversor de moedas, entre Real, Euro e Dólar, adaptado para ter opção de mostrar os indices das principais bolsas fornecidas pela API da HGBrasil. A ideia é futuramente fazer a consulta de ações da bolsa, porém esse opção não é grátis nessa api. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
